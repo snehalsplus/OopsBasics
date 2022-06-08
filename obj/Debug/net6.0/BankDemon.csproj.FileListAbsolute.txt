@@ -1,0 +1,15 @@
+C:\Users\Snehal\source\repos\BankDemon\BankDemon\bin\Debug\net6.0\BankDemon.exe
+C:\Users\Snehal\source\repos\BankDemon\BankDemon\bin\Debug\net6.0\BankDemon.deps.json
+C:\Users\Snehal\source\repos\BankDemon\BankDemon\bin\Debug\net6.0\BankDemon.runtimeconfig.json
+C:\Users\Snehal\source\repos\BankDemon\BankDemon\bin\Debug\net6.0\BankDemon.dll
+C:\Users\Snehal\source\repos\BankDemon\BankDemon\bin\Debug\net6.0\BankDemon.pdb
+C:\Users\Snehal\source\repos\BankDemon\BankDemon\obj\Debug\net6.0\BankDemon.csproj.AssemblyReference.cache
+C:\Users\Snehal\source\repos\BankDemon\BankDemon\obj\Debug\net6.0\BankDemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Snehal\source\repos\BankDemon\BankDemon\obj\Debug\net6.0\BankDemon.AssemblyInfoInputs.cache
+C:\Users\Snehal\source\repos\BankDemon\BankDemon\obj\Debug\net6.0\BankDemon.AssemblyInfo.cs
+C:\Users\Snehal\source\repos\BankDemon\BankDemon\obj\Debug\net6.0\BankDemon.csproj.CoreCompileInputs.cache
+C:\Users\Snehal\source\repos\BankDemon\BankDemon\obj\Debug\net6.0\BankDemon.dll
+C:\Users\Snehal\source\repos\BankDemon\BankDemon\obj\Debug\net6.0\refint\BankDemon.dll
+C:\Users\Snehal\source\repos\BankDemon\BankDemon\obj\Debug\net6.0\BankDemon.pdb
+C:\Users\Snehal\source\repos\BankDemon\BankDemon\obj\Debug\net6.0\BankDemon.genruntimeconfig.cache
+C:\Users\Snehal\source\repos\BankDemon\BankDemon\obj\Debug\net6.0\ref\BankDemon.dll
